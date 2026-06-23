@@ -3,7 +3,7 @@
 ## Overview
 This repository contains Excel-based data analysis practice projects using real-world datasets. The goal is to practice data cleaning, grouping, summary statistics, and business-style reporting with Excel formulas.
 
-## Project 1: Medical Cost Analysis
+## Task 1: Medical Cost Analysis
 
 ### Dataset
 The dataset includes medical cost information such as age, sex, BMI, number of children, smoking status, region, and medical charges.
